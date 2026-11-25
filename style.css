@@ -229,7 +229,7 @@ footer {
     }
 
     .text-wrapper {
-        max-width: 100%;
+        max-width: 560px;
     }
 
     .about-section {
@@ -241,7 +241,7 @@ footer {
 @media screen and (max-width: 768px) {
     .info-wrapper {
         flex-direction: column;
-        gap: 50px;
+        gap: 60px;
     }
 }
 
